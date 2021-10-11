@@ -1,0 +1,8 @@
+2021-10-03 04:50:32,039:INFO:pyttest.test_logs:this is info message
+2021-10-03 04:50:32,039:WARNING:pyttest.test_logs:this is warning message
+2021-10-03 04:50:32,039:ERROR:pyttest.test_logs:this is error message
+2021-10-03 04:50:32,039:CRITICAL:pyttest.test_logs:this is critical message
+2021-10-03 04:52:23,017:INFO:pyttest.test_logs:this is info message
+2021-10-03 04:52:23,017:WARNING:pyttest.test_logs:this is warning message
+2021-10-03 04:52:23,033:ERROR:pyttest.test_logs:this is error message
+2021-10-03 04:52:23,033:CRITICAL:pyttest.test_logs:this is critical message

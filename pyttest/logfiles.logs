@@ -1,0 +1,11 @@
+2021-10-05 01:44:02,233:INFO:pyttest.cutsomlogs:this test_002 logs information
+2021-10-05 01:44:02,233:INFO:pyttest.cutsomlogs:this test_003 logs information
+2021-10-05 01:44:02,233:INFO:pyttest.cutsomlogs:this is test_004 logs information
+2021-10-05 01:44:02,233:INFO:pyttest.cutsomlogs:this test_001_1log information
+2021-10-05 01:44:02,233:INFO:pyttest.cutsomlogs:this is test_001_2loginformation
+2021-10-05 03:49:46,970:INFO:pyttest.cutsomlogs:test is passed
+2021-10-05 03:49:54,268:INFO:pyttest.cutsomlogs:test is passed
+2021-10-05 03:49:54,268:INFO:pyttest.cutsomlogs:test is passed
+2021-10-05 03:50:02,539:INFO:pyttest.cutsomlogs:test is passed succssfully
+2021-10-05 03:50:02,539:INFO:pyttest.cutsomlogs:test is passed succssfully
+2021-10-05 03:50:02,539:INFO:pyttest.cutsomlogs:test is passed succssfully
